@@ -4,5 +4,6 @@ class GameServer
 public:
 	GameServer();
 	~GameServer();
+	void CreateSocket();
 };
 
