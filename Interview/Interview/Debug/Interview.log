@@ -1,0 +1,27 @@
+﻿生成启动时间为 2016/6/22 21:58:37。
+     1>项目“H:\VsProject\Interview\Interview\Interview.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\vs15\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt /D _CRT_SECURE_NO_WARNINGS Main.cpp
+         Main.cpp
+     1>h:\vsproject\interview\interview\main.cpp(5): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+         h:\vsproject\interview\interview\main.cpp(5): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+     1>h:\vsproject\interview\interview\main.cpp(37): warning C4101: “Temp”: 未引用的局部变量
+         h:\vsproject\interview\interview\main.cpp(127): note: 参见对正在编译的函数 模板 实例化“void SortArray<int>(T *,size_t)”的引用
+                 with
+                 [
+                     T=int
+                 ]
+     1>h:\vsproject\interview\interview\main.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+         h:\vsproject\interview\interview\main.cpp(137): note: 参见对正在编译的函数 模板 实例化“void DoubleSortArray<int>(T *,size_t)”的引用
+                 with
+                 [
+                     T=int
+                 ]
+       Link:
+         H:\vs15\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\VsProject\Interview\Debug\Interview.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"H:\VsProject\Interview\Debug\Interview.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\VsProject\Interview\Debug\Interview.lib" /MACHINE:X86 Debug\Main.obj
+         Interview.vcxproj -> H:\VsProject\Interview\Debug\Interview.exe
+     1>已完成生成项目“H:\VsProject\Interview\Interview\Interview.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.16
