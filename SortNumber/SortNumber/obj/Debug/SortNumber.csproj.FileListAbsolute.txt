@@ -1,6 +1,0 @@
-H:\VsProject\SortNumber\SortNumber\bin\Debug\SortNumber.exe.config
-H:\VsProject\SortNumber\SortNumber\bin\Debug\SortNumber.exe
-H:\VsProject\SortNumber\SortNumber\bin\Debug\SortNumber.pdb
-H:\VsProject\SortNumber\SortNumber\obj\Debug\SortNumber.csprojResolveAssemblyReference.cache
-H:\VsProject\SortNumber\SortNumber\obj\Debug\SortNumber.exe
-H:\VsProject\SortNumber\SortNumber\obj\Debug\SortNumber.pdb
