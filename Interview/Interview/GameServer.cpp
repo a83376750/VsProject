@@ -10,3 +10,8 @@ GameServer::GameServer()
 GameServer::~GameServer()
 {
 }
+
+void GameServer::CreateSocket()
+{
+
+}
