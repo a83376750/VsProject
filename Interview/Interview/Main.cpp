@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <vector>
+#include "GameServer.h"
 
 using namespace std;
 
