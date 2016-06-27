@@ -15,6 +15,7 @@ public:
 	void CreateSocket();
 #ifdef WIN32
 	void CreateSocketFromWin32();
+	void ThrowSocketError();
 #endif
 
 #ifdef LINUX
@@ -23,6 +24,7 @@ public:
 
 private:
 	int m_Socket;		//Ì×½Ó×Ö
-
+	short m_port;
+	std::string m_IP;
 };
 

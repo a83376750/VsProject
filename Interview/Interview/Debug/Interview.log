@@ -1,4 +1,4 @@
-﻿生成启动时间为 2016/6/25 23:48:10。
+﻿生成启动时间为 2016/6/27 11:24:54。
      1>项目“H:\VsProject\Interview\Interview\Interview.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>ClCompile:
          H:\vs15\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt /D _CRT_SECURE_NO_WARNINGS GameServer.cpp Main.cpp
@@ -25,4 +25,4 @@
 
 已成功生成。
 
-已用时间 00:00:01.16
+已用时间 00:00:01.35

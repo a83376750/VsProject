@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interview", "Interview\Interview.vcxproj", "{E2CCBF00-6BBF-4E80-80DE-5BE769065131}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameServer", "GameServer\GameServer.vcxproj", "{11C4170F-2B67-4550-ADAC-B7432B30CC99}"
-	ProjectSection(ProjectDependencies) = postProject
-		{E2CCBF00-6BBF-4E80-80DE-5BE769065131} = {E2CCBF00-6BBF-4E80-80DE-5BE769065131}
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
